@@ -1,0 +1,16 @@
+{
+  "name": "リレー暦",
+  "short_name": "リレー暦",
+  "description": "日付を予約し、公開記事を順番に結ぶ記事リレーカレンダー。",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4efe4",
+  "theme_color": "#f4efe4",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    }
+  ]
+}
